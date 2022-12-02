@@ -1,5 +1,6 @@
 <div align="center">
 
+https://www.kaggle.com/code/cdeotte/compute-validation-score-cv-565?scriptVersionId=111214251
 # OTTO Recommender Systems Dataset
 
 [![GitHub Stars](https://img.shields.io/github/stars/otto-de/recsys-dataset.svg?style=for-the-badge&color=yellow)](https://github.com/otto-de/recsys-dataset)
